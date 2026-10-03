@@ -36,5 +36,5 @@ Further evaluation could include precision, recall, F1 score, a confusion matrix
 
 ## Author
 
-Nathan Lin  
+Nathan & Stelios 
 Johns Hopkins University
